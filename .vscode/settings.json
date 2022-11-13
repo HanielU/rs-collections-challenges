@@ -1,4 +1,5 @@
 {
   "editor.fontFamily": "\"JetBrains Mono\", Consolas, 'Courier New', monospace",
-  "editor.fontWeight": 300
+  "editor.fontWeight": 300,
+  "editor.tabSize": 4
 }
